@@ -1,6 +1,6 @@
 # CodepathPreWork_IOS
 
-###Spotify:
+## Spotify:
 
 Personalized Recommendations: Spotify's algorithms analyze your listening habits and preferences to offer personalized music recommendations and curated playlists that match your taste.
 
@@ -8,7 +8,7 @@ Offline Listening: Premium users can download their favorite songs, albums, or p
 
 Cross-Device Syncing: Spotify keeps your music library and playlists synchronized across different devices, so you can seamlessly switch from your phone to your computer without missing a beat.
 
-###Google Calendar:
+## Google Calendar:
 
 Intuitive Interface: Google Calendar's clean and intuitive interface makes it easy to schedule events, set reminders, and view your schedule at a glance.
 
@@ -16,7 +16,7 @@ Event Integration: It seamlessly integrates with other Google services like Gmai
 
 Shared Calendars: You can create and share calendars with others, making it a powerful tool for scheduling events and coordinating with friends, family, or colleagues.
 
-###Slack:
+## Slack:
 
 Channels and Direct Messages: Slack provides organized communication through channels for specific topics or teams, as well as direct messaging for one-on-one conversations.
 
