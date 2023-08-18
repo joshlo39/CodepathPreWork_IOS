@@ -23,3 +23,6 @@ Channels and Direct Messages: Slack provides organized communication through cha
 Integration with Apps: Slack integrates with a wide range of third-party applications and services, allowing you to bring information and updates from various sources directly into your Slack conversations.
 
 Searchable History: All conversations and files shared on Slack are searchable, making it easy to find past discussions, shared documents, and information without scrolling through endless messages.
+
+### Brainstorm
+An innovative habit-tracking application that simplifies the chore of monitoring your daily routines. This app utilizes automation to remove the hassle of manual habit tracking. Its user-friendly interface lets you input your habits and their desired frequency. Once activated, the app silently monitors your progress in the background, providing real-time updates on your habit adherence. Through clear visuals and customizable reminders, the app keeps you motivated and accountable. By automating the habit-tracking process, this app aims to make adopting positive routines an effortless and integrated part of your daily life.
